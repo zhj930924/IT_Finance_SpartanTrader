@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HW9
+</name>
+</assembly>
+<members>
+<member name="T:HW9.Sheet1">
+
+</member>
+<member name="M:HW9.Sheet1.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:HW9.Sheet1.Initialize">
+
+</member>
+<member name="M:HW9.Sheet1.FinishInitialization">
+
+</member>
+<member name="M:HW9.Sheet1.InitializeDataBindings">
+
+</member>
+<member name="M:HW9.Sheet1.InitializeCachedData">
+
+</member>
+<member name="M:HW9.Sheet1.InitializeData">
+
+</member>
+<member name="M:HW9.Sheet1.BindToData">
+
+</member>
+<member name="M:HW9.Sheet1.StartCaching(System.String)">
+
+</member>
+<member name="M:HW9.Sheet1.StopCaching(System.String)">
+
+</member>
+<member name="M:HW9.Sheet1.IsCached(System.String)">
+
+</member>
+<member name="M:HW9.Sheet1.BeginInitialization">
+
+</member>
+<member name="M:HW9.Sheet1.EndInitialization">
+
+</member>
+<member name="M:HW9.Sheet1.InitializeControls">
+
+</member>
+<member name="M:HW9.Sheet1.InitializeComponents">
+
+</member>
+<member name="M:HW9.Sheet1.NeedsFill(System.String)">
+
+</member>
+<member name="M:HW9.Sheet1.OnShutdown">
+
+</member>
+<member name="T:HW9.Globals">
+
+</member>
+<member name="M:HW9.Globals.#ctor">
+
+</member>
+<member name="T:HW9.ThisWorkbook">
+
+</member>
+<member name="M:HW9.ThisWorkbook.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:HW9.ThisWorkbook.Initialize">
+
+</member>
+<member name="M:HW9.ThisWorkbook.FinishInitialization">
+
+</member>
+<member name="M:HW9.ThisWorkbook.InitializeDataBindings">
+
+</member>
+<member name="M:HW9.ThisWorkbook.InitializeCachedData">
+
+</member>
+<member name="M:HW9.ThisWorkbook.InitializeData">
+
+</member>
+<member name="M:HW9.ThisWorkbook.BindToData">
+
+</member>
+<member name="M:HW9.ThisWorkbook.StartCaching(System.String)">
+
+</member>
+<member name="M:HW9.ThisWorkbook.StopCaching(System.String)">
+
+</member>
+<member name="M:HW9.ThisWorkbook.IsCached(System.String)">
+
+</member>
+<member name="M:HW9.ThisWorkbook.BeginInitialization">
+
+</member>
+<member name="M:HW9.ThisWorkbook.EndInitialization">
+
+</member>
+<member name="M:HW9.ThisWorkbook.InitializeControls">
+
+</member>
+<member name="M:HW9.ThisWorkbook.InitializeComponents">
+
+</member>
+<member name="M:HW9.ThisWorkbook.NeedsFill(System.String)">
+
+</member>
+<member name="M:HW9.ThisWorkbook.OnShutdown">
+
+</member>
+<member name="T:HW9.ThisRibbonCollection">
+
+</member>
+<member name="M:HW9.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:HW9.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HW9.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HW9.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

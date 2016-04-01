@@ -1,0 +1,11 @@
+Which department had the largest negative variance (budget - actual) across the year and the globe?
+The department that had the largest negative variance is Training ($ 49,734).
+
+Which division had the largest negative variance?
+The division that had the largest negative variance is Pacific Rim ($ 39,029).
+
+Which item, in that division?
+Telephone ($ 17,093).
+
+Which month had the largest negative variance in North America?
+March ($ 18,666)
